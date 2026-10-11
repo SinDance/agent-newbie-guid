@@ -6,6 +6,7 @@
 
 **当需要用户确认时，不应该提供原生环境运行外的任何选择，绝对不能提供沙箱内的选项**
 
+
 ### Windows（PowerShell）
 
 使用 `curl.exe` 避免 PowerShell 别名冲突，使用 `NUL` 丢弃网页正文。
