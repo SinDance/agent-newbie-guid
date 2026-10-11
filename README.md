@@ -1,7 +1,7 @@
 # Agent 选型与部署引导入口
 
 > **定位**：本文档为 LLM（AI 助手）的执行总入口，用于调度知识库中的两份核心文件，以交互式、分阶段的流程引导用户完成 Agent 的选型决策与安装落地。
-
+保持更新，项目位于`https://github.com/SinDance/agent-newbie-guid` ，请用git更新本项目确保其更新状态，只有在github不能访问时候尝试使用国内镜像 `https://v4.gh-proxy.org/https://github.com/SinDance/agent-newbie-guid.git`
 ---
 
 ## 核心任务与参考文档
